@@ -1,6 +1,6 @@
 # week3_covid_store_ui
 
-A new Flutter application.
+A Flutter app with blur and hero for a possible covid medical store!
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+Here's the running app:
+https://gfycat.com/spitefulshadybooby
+
+The app was based on this dribble post - https://dribbble.com/shots/12388027-COVID-19-Online-Store?utm_source=Clipboard_Shot&utm_campaign=uiTurtle&utm_content=COVID-19%20Online%20Store&utm_medium=Social_Share
