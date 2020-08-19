@@ -2,6 +2,11 @@
 
 A Flutter app with blur and hero for a possible covid medical store!
 
+Here's the running app:
+![App in action](https://gfycat.com/spitefulshadybooby)
+
+The app was based on this dribble post - https://dribbble.com/shots/12388027-COVID-19-Online-Store?utm_source=Clipboard_Shot&utm_campaign=uiTurtle&utm_content=COVID-19%20Online%20Store&utm_medium=Social_Share
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -16,7 +21,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-Here's the running app:
-https://gfycat.com/spitefulshadybooby
 
-The app was based on this dribble post - https://dribbble.com/shots/12388027-COVID-19-Online-Store?utm_source=Clipboard_Shot&utm_campaign=uiTurtle&utm_content=COVID-19%20Online%20Store&utm_medium=Social_Share
