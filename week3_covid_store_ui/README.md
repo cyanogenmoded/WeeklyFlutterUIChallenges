@@ -3,7 +3,7 @@
 A Flutter app with blur and hero for a possible covid medical store!
 
 Here's the running app:
-![App in action](https://gfycat.com/spitefulshadybooby)
+![App in action](https://thumbs.gfycat.com/SpitefulShadyBooby-mobile.mp4)
 
 The app was based on this dribble post - https://dribbble.com/shots/12388027-COVID-19-Online-Store?utm_source=Clipboard_Shot&utm_campaign=uiTurtle&utm_content=COVID-19%20Online%20Store&utm_medium=Social_Share
 
